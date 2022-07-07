@@ -1,0 +1,36 @@
+div.inner-div{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    flex-wrap: wrap;
+    width: 24vw;
+    margin:7px auto;
+    direction: rtl;
+}
+div.black{
+    width: 4vw;
+    height: 5vh;
+    border-radius: 5px;
+    background-color: #3c3a3a;
+    color: white;
+    text-align: center;
+    font-size: large;
+    margin: 3px;
+    vertical-align: middle;
+    align-items: center;
+    line-height: 25px;
+}
+div.calc-div
+{
+    width: 27vw;
+    height: 60vh;
+    margin: 5% auto;
+    background-color: #ffe715d1;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-right-radius: 10%;
+    border-top-left-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
